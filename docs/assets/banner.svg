@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Commerce Copilot — K1Ssy-ai</title>
+  <desc id="desc">深色背景上的电商智能助手项目封面，薄荷绿协作节点与橙色强调线。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1720"/><stop offset="1" stop-color="#112b33"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#7cf6ca"/><stop offset="1" stop-color="#3bcbb1"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ad6cb" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 322H1280" stroke="#8ad6cb" stroke-opacity=".12"/>
+  <rect x="60" y="48" width="36" height="36" rx="10" fill="url(#accent)"/>
+  <path d="M70 61h15l-2 10h-11l-3-15h-3m6 20h1m8 0h1" fill="none" stroke="#0b2426" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="110" y="72" fill="#b5d4d6" font-size="16" font-family="Segoe UI,Arial,sans-serif" letter-spacing="3">K1SSY-AI / PROJECT LAB</text>
+  <text x="58" y="169" fill="#f4faf8" font-size="65" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="-2">Commerce Copilot</text>
+  <rect x="62" y="194" width="48" height="4" rx="2" fill="#ffbb78"/>
+  <text x="62" y="238" fill="#a9c9cc" font-size="21" font-family="Segoe UI,Arial,sans-serif">Multi-agent collaboration for commerce.</text>
+  <text x="62" y="292" fill="#7cf6ca" font-size="12" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2.5">DISCOVER  /  ASSIST  /  CONFIRM</text>
+  <g fill="none" stroke="#6ce6c2" stroke-opacity=".45" stroke-width="2">
+    <path d="M1010 172L902 100M1010 172L1140 105M1010 172L1138 254M1010 172L898 254"/>
+    <circle cx="1010" cy="172" r="70" stroke-opacity=".1"/>
+    <circle cx="1010" cy="172" r="104" stroke-opacity=".07" stroke-dasharray="4 9"/>
+  </g>
+  <g fill="#153c42" stroke="#4c8e8c" stroke-width="1.5">
+    <rect x="874" y="72" width="56" height="56" rx="16"/>
+    <rect x="1112" y="77" width="56" height="56" rx="16"/>
+    <rect x="1110" y="226" width="56" height="56" rx="16"/>
+    <rect x="870" y="226" width="56" height="56" rx="16"/>
+  </g>
+  <g stroke="#b3dfd6" fill="none" stroke-width="2" stroke-linejoin="round">
+    <path d="M890 91h23v20h-23zM890 96h23M898 91v20"/>
+    <path d="M1130 96h20m-20 9h20m-20 9h12"/>
+    <path d="M1129 245l7 7 13-14" stroke="#ffbb78" stroke-width="3"/>
+    <path d="M888 243h20v14h-11l-6 5v-5h-3z"/>
+  </g>
+  <rect x="973" y="135" width="74" height="74" rx="23" fill="url(#accent)"/>
+  <g fill="#103232"><circle cx="998" cy="170" r="4"/><circle cx="1022" cy="170" r="4"/></g>
+  <path d="M997 183q13 10 26 0M1010 147v8" fill="none" stroke="#103232" stroke-width="3" stroke-linecap="round"/>
+  <text x="1218" y="345" fill="#73989f" font-size="11" font-family="Segoe UI,Arial,sans-serif" text-anchor="end" letter-spacing="2">FOUNDATION / 00</text>
+</svg>
