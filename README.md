@@ -68,7 +68,7 @@ flowchart LR
 | **03 · Assisted Actions** | 订单操作提案、确认、恢复与审计 | 重复提交与拒绝操作的测试通过 |
 | **04 · Portfolio** | 演示截图、实测结果与部署说明 | 能复现功能且不依赖真实客户数据 |
 
-具体待办和验收标准见[开发路线](docs/ROADMAP.md)。当前停留在 **00** 阶段，已完成[三个典型电商演示场景的需求设计](docs/DEMO_SCENARIOS.md)，涵盖商品筛选、本人订单查询和带来源的政策问答。
+具体待办和验收标准见[开发路线](docs/ROADMAP.md)。当前停留在 **00** 阶段，已完成[三个典型电商演示场景的需求设计](docs/DEMO_SCENARIOS.md)，涵盖商品筛选、本人订单查询和带来源的政策问答；业务定义见[最小术语表](docs/GLOSSARY.md)。
 
 ## 开始阅读
 
@@ -80,6 +80,7 @@ commerce-copilot/
 ├── docs/
 │   ├── ARCHITECTURE.md       目标架构和业务映射
 │   ├── DEMO_SCENARIOS.md     三个演示问题及验收条件
+│   ├── GLOSSARY.md           商品、订单与售后术语边界
 │   ├── ROADMAP.md            分阶段任务及验收标准
 │   ├── PROVENANCE.md         参考来源与授权边界
 │   ├── DEVELOPMENT.md        本地工作与验证方法
